@@ -24,7 +24,7 @@
 <br />
 <img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" /> 
 
-- 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding ***
+- 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding 
 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=aniket7515)
 
@@ -47,14 +47,18 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "center">
+<p align = "left">
+   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "left">
 </p>
 
-<p align = "center">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center">
+<p align = "right">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "right">
 </p>
-
+<p align="center">
+<a href="https://github.com/aniket7515/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 <!--
 **aniket7515/aniket7515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
