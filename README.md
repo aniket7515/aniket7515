@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi👋, Aniket here!</h1>
+<h1 align="center">Hi Folks👋, Aniket here!</h1>
 <h3 align="center">I am a Computer Science student, Web developer & AI ML enthusist.</h3>
 
-<h1 align="center">Education</h1>
+<!-- <h1 align="center">Education</h1>
 <h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
-<h3 align="center">BSc in Programming and Data Science - IIT , Madras</h3>
+<h3 align="center">BSc in Programming and Data Science - IIT , Madras</h3> -->
 
 - 💻 **[Check out my projects!](https://github.com/aniket75151?tab=repositories)**
 
