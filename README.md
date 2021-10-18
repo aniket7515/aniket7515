@@ -22,7 +22,7 @@
 
 
 <br />
-<!-- <img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="290" />  -->
+<img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" /> 
 
 - 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding ***
 
