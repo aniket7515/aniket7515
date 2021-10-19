@@ -8,7 +8,7 @@
 
 - 💻 **[Check out my projects!](https://github.com/aniket75151?tab=repositories)**
 
-- Looking forward to collaborate on **Open Source Contributions**
+- Looking forward to contribute to **Open Source projects**
 
 - 👨‍💻 Currently Working on Tesla Home : https://github.com/aniket7515/TESLA-HOME
 - 🌱 I’m currently learning React Js 
