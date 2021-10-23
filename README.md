@@ -48,11 +48,11 @@
 
 
 <p align = "left">
-   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "left">
+   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "left" width="50%">
 </p>
 
 <p align = "right">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "right">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "right" width="40%">
 </p>
 <p align="center">
 <a href="https://github.com/aniket7515/github-readme-activity-graph">
