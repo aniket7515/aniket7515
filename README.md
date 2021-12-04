@@ -11,7 +11,7 @@
 - Looking forward to contribute to **Open Source projects**
 
 - 👨‍💻 Currently Working on Tesla Home : https://github.com/aniket7515/TESLA-HOME
-- 🌱 I’m currently learning React Js 
+- 🌱 I’m currently learning Backend Web Development
 
 - 📫 Reach 👇<br>
 
@@ -22,7 +22,7 @@
 
 
 <br />
-<img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" /> 
+<img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="420" height="290" /> 
 
 - 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding 
 
@@ -46,19 +46,20 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-<p align = "left">
-   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "left" width="50%">
+<!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
+<p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "center" width="60%">
 </p>
 
-<p align = "right">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "right" width="40%">
+<p align = "center">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="40%">
 </p>
 <p align="center">
 <a href="https://github.com/aniket7515/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+
 <!--
 **aniket7515/aniket7515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
