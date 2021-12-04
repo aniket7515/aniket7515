@@ -47,19 +47,23 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
-<p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&theme=tokyonight&show_icons=true&hide=stars" align = "center" width="60%">
+<p align = "left">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical" align = "left" width="40%">
+</p>
+<p align = "right">
+   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&show_icons=true&theme=radical" align = "right" width="55%">
 </p>
 
 <p align = "center">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="40%">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="50%">
 </p>
+
 <p align="center">
 <a href="https://github.com/aniket7515/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical)](https://git.io/streak-stats)  -->
 <!--
 **aniket7515/aniket7515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
