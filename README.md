@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi Folks👋, Aniket here!</h1>
-<h3 align="center">I am a Computer Science student, Web developer & AI ML enthusist.</h3>
+<h3 align="center">I am a Computer Science student & Web developer.</h3>
 
 <!-- <h1 align="center">Education</h1>
 <h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
