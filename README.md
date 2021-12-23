@@ -6,8 +6,8 @@
 <h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
 <h3 align="center">BSc in Programming and Data Science - IIT , Madras</h3> -->
 
-- 💻 **[Check out my projects!](https://github.com/aniket75151?tab=repositories)**
-
+<!-- - 💻 **[Check out my projects!](https://github.com/aniket75151?tab=repositories)** -->
+- 
 - Looking forward to contribute to **Open Source projects**
 
 <!-- - 👨‍💻 Currently Working on Tesla Home : https://github.com/aniket7515/TESLA-HOME -->
