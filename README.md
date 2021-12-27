@@ -65,6 +65,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+
+- **[Detailed Stats](https://gitstats.me/aniket7515)**
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical)](https://git.io/streak-stats)  -->
 <!--
 **aniket7515/aniket7515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -80,4 +82,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- **[Detailed Stats](https://gitstats.me/aniket7515)**
+
+
+
