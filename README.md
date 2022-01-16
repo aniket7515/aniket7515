@@ -1,34 +1,42 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
 
 <h1 align="center">Hi Folks👋, Aniket here!</h1>
-<h3 align="center">I am a Computer Science student & Web developer.</h3>
+<!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
+<h1><👨‍💻 About Me></h1>
+    I am Aniket Dhokane and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & DevOps enthusiast 💻💻
+
+   <br>
+    <br/>
+<!--      Links      -->
+     
+     
+[![](https://img.shields.io/badge/-aniket_dhokane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aniket-dhokane-305050207)](https://www.linkedin.com/in/aniket-dhokane-305050207)
+[![](https://img.shields.io/badge/-aniket_dhokane_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/aniket_dhokanepatil)](https://www.instagram.com/aniket_dhokanepatil)
+[![](https://img.shields.io/badge/-aniketdhokane2071@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aniketdhokane)](mailto:aniketdhokane2071@gmail.com)
+[![](https://img.shields.io/badge/-aniket7515-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniket7515)
 
 <!-- <h1 align="center">Education</h1>
 <h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
 <h3 align="center">BSc in Programming and Data Science - IIT , Madras</h3> -->
 
 <!-- - 💻 **[Check out my projects!](https://github.com/aniket75151?tab=repositories)** -->
-- Looking for new opportunities in Web devevlopment
-- Looking forward to contribute to **Open Source projects**
+<!-- - Looking for new opportunities in Web devevlopment -->
+<!-- - Looking forward to contribute to **Open Source projects** -->
 <!-- - 👨‍💻 Currently Working on Tesla Home : https://github.com/aniket7515/TESLA-HOME -->
-- 🌱 I’m currently learning Backend Web Development
+<!-- - 🌱 I’m currently learning Backend Web Development -->
 
-- 📫 Reach 👇<br>
-
-[![](https://img.shields.io/badge/-aniket_dhokane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aniket-dhokane-305050207)](https://www.linkedin.com/in/aniket-dhokane-305050207)
-[![](https://img.shields.io/badge/-aniket_dhokane_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/aniket_dhokanepatil)](https://www.instagram.com/aniket_dhokanepatil)
-[![](https://img.shields.io/badge/-aniketdhokane2071@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aniketdhokane)](mailto:aniketdhokane2071@gmail.com)
-[![](https://img.shields.io/badge/-aniket7515-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniket7515)
+<!-- - 📫 Reach 👇<br> -->
 
 
-<br />
+
+<!-- <br /> -->
 <img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="420" height="290" /> 
 
-- 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding 
+<!-- - 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding  -->
 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=aniket7515)
 
-### Languages :
+<h1>Languages :</h1> 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
@@ -38,7 +46,7 @@
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
 
 
-### Libraries & Framework :
+<h1>Libraries & Framework :</h1>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -56,9 +64,9 @@
    <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&show_icons=true&theme=radical" align = "right" width="55%">
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="50%">
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/aniket7515/github-readme-activity-graph">
