@@ -1,3 +1,4 @@
+![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
 
 <h1 align="center">Hi Folks👋, Aniket here!</h1>
 <h3 align="center">I am a Computer Science student & Web developer.</h3>
