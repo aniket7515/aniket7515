@@ -3,7 +3,7 @@
 <h1 align="center">Hi Folks👋, Aniket here!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
-    I am Aniket Dhokane and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development 💻💻
+    I am Aniket Dhokane sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development 💻💻
 and Looking for new opportunities in web development
    <br> 
     <br/>
