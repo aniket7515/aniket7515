@@ -30,7 +30,7 @@
 
 ## Positions :
 - Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
-- Open Source Contributor at **@GSWoC'21** and **@HacktoberFest'22**
+- Open Source Contributor at **@SWoC'21** and **@HacktoberFest'21**
 - Campus Ambassador at **EasyCode**
 
 
