@@ -1,95 +1,126 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
-
-<h1 align="center">Hi Folks👋, Aniket here!</h1>
-<!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
-<h1><👨‍💻 About Me></h1>
-    I am Aniket Dhokane sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development 💻💻
-and Looking for new opportunities in web development
-   <br> 
-    <br/>
-<!--      Links      -->
-     
-     
-[![](https://img.shields.io/badge/-aniket_dhokane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aniket-dhokane-305050207)](https://www.linkedin.com/in/aniket-dhokane-305050207)
-[![](https://img.shields.io/badge/-aniket_dhokane_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/aniket_dhokanepatil)](https://www.instagram.com/aniket_dhokanepatil)
-[![](https://img.shields.io/badge/-aniketdhokane2071@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aniketdhokane)](mailto:aniketdhokane2071@gmail.com)
-[![](https://img.shields.io/badge/-aniket7515-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniket7515)
-
-<!-- <h1 align="center">Education</h1>
-<h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
-<h3 align="center">BSc in Programming and Data Science - IIT , Madras</h3> -->
-
-<!-- - 💻 **[Check out my projects!](https://github.com/aniket75151?tab=repositories)** -->
-<!-- - Looking for new opportunities in Web devevlopment -->
-<!-- - Looking forward to contribute to **Open Source projects** -->
-<!-- - 👨‍💻 Currently Working on Tesla Home : https://github.com/aniket7515/TESLA-HOME -->
-<!-- - 🌱 I’m currently learning Backend Web Development -->
-
-<!-- - 📫 Reach 👇<br> -->
+<h3 align="center"> <p>Welcome !! To My Profile, Visitors.😄</p> </h3>
 
 
 
-<!-- <br /> -->
-<img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="420" height="290" /> 
+# **Hello! I am Aniket Dhokane** 
+**ABOUT ME :**
+> I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
-<!-- - 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding  -->
+> An engineering student with high expertise in **Website and Software Development.**
 
-![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=aniket7515)
+> The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
 
-<h1>Languages :</h1> 
-
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
+> I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
 
-<h1>Libraries & Framework :</h1>
+##  Connect With Me :
+[![Linkedin Badge](https://img.shields.io/badge/-Aniket.Dhokane-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/aniket-dhokane-305050207/)](https://www.linkedin.com/in/aniketdhokane/)
+[![Twitter Badge](https://img.shields.io/badge/-@AniketDhokane-1ca0f1?style=&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AniketDhokane)](https://twitter.com/AniketDhokane)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amansrv_/)](https://instagram.com/amansrv_)
+[![Gmail Badge](https://img.shields.io/badge/-aniketdhokane2071@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:aniketdhokane2071@gmail.com)](mailto:aniketdhokane2071@gmail.com)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket7515&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="aniket7515" /></a> </p>
 
-<!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
-<p align = "left">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical" align = "left" width="40%">
-</p>
-<p align = "right">
-   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&show_icons=true&theme=radical" align = "right" width="55%">
-</p>
+<!-- This is my coding profile accounts -->
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/##########/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/#########)
 
-<!-- <p align = "center">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="50%">
-</p> -->
 
+
+## Positions :
+- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
+- Open Source Contributor at **@GSWoC'21** and **@HacktoberFest'22**
+- Campus Ambassador at **EasyCode**
+
+
+## My skills :
+> ##  **Languages:** 
+ 
+
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><br>
+
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+
+> ## **Framework:**
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><br>
+
+> ## **Databases:**
+<a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mongodb" width="40" height="40"/> </a>  
+
+
+## **Designing and Styling:**
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
+
+> ## **Tools:**
+</a> 
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="heroku" width="80" height="80"/></a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
+
+
+## **"You can ask to me about!**
+- Front-end development using **React.js**
+- Backend development using **Node.js & Express Js**
+- Solving Data structure and algorithm questions in **JAVA**
+
+ 
+## **"Some More About Me!**
+- I’m currently working on **Web Development** using **React.js and Node.js**
+- I’m currently learning **DSA and Backend Development**
+- Ask me about DSA and Web Development [MERN Development]
+- I’m looking to collaborate on exciting Open-Source Projects and Hackathons
+- Fun fact: What make me more happy?? **To help others and grow-up together**
+ 
+ 
+
+
+
+ ## **"Hello World!!**
+
+ > I'm In the cycle of:
+
+▪️Coding ▪️Programming ▪️Developing ▪️
+
+ ***
+ 
+<hr>
+<h2 align="center">Visitor Count👨‍💻 !! 😊</h2>
 <p align="center">
-<a href="https://github.com/aniket7515/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
+  
+  ![VisitorCount!!😊](https://profile-counter.glitch.me/{amansrv}/count.svg) 
+  
 </p>
-
-- **[Detailed Stats](https://gitstats.me/aniket7515)**
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical)](https://git.io/streak-stats)  -->
-<!--
-**aniket7515/aniket7515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+</hr>
+    
+***
+    
+<h2 align="center">Github Activity📊 !! 😊 </h2>   
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aniket7515&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+   <tr><td>😀</td></tr>
+</table>
+    
+    
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
+ 
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket7515&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+  </tr> 
+   
+ <tr>
+   <td><img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+  <tr><td>😀</td></tr>
+</table>
