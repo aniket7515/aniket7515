@@ -5,7 +5,7 @@
 
 # **Hello! I am Aniket Dhokane** 
 **ABOUT ME :**
-> I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
+> I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Motivator** and **Mentor**.
 
 > An engineering student with high expertise in **Website and Software Development.**
 
