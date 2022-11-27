@@ -66,7 +66,7 @@
 ## **"You can ask to me about!**
 - Front-end development using **React.js**
 - Backend development using **Node.js & Express Js**
-- Solving Data structure and algorithm questions in **JAVA**
+- Data structure and algorithm questions in **JAVA**
 
  
 ## **"Some More About Me!**
@@ -92,7 +92,7 @@
 <h2 align="center">Visitor Count👨‍💻 !! 😊</h2>
 <p align="center">
   
-  ![VisitorCount!!😊](https://profile-counter.glitch.me/{amansrv}/count.svg) 
+  ![VisitorCount!!😊](https://profile-counter.glitch.me/{aniket7515}/count.svg) 
   
 </p>
 </hr>
