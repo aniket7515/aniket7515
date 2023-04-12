@@ -27,12 +27,12 @@
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/#########)
 
 
-
+<!-- 
 ## Positions :
 - Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 - Open Source Contributor at **@SWoC'21** and **@HacktoberFest'21**
 - Campus Ambassador at **EasyCode**
-
+ -->
 
 ## My skills :
 > ##  **Languages:** 
@@ -63,7 +63,7 @@
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
 
-## **"You can ask to me about!**
+<!-- ## **"You can ask to me about!**
 - Front-end development using **React.js**
 - Backend development using **Node.js & Express Js**
 - Data structure and algorithm questions in **JAVA**
@@ -74,13 +74,13 @@
 - I’m currently learning **DSA and Backend Development**
 - Ask me about DSA and Web Development [MERN Development]
 - I’m looking to collaborate on exciting Open-Source Projects and Hackathons
-- Fun fact: What make me more happy?? **To help others and grow-up together**
+- Fun fact: What make me more happy?? **To help others and grow-up together** -->
  
  
 
 
 
- ## **"Hello World!!**
+<!--  ## **"Hello World!!**
 
  > I'm In the cycle of:
 
@@ -97,7 +97,7 @@
 </p>
 </hr>
     
-***
+*** -->
     
 <h2 align="center">Github Activity📊 !! 😊 </h2>   
    
